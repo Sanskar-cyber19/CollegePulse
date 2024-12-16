@@ -47,6 +47,8 @@ export const AuthProvider = ({ children }) => {
         setAdmin(exist);
         localStorage.setItem("user",JSON.stringify(exist))
         Router.push("/admin")
+        setUsername("")
+        setPassword("")
       } else {
         setErrorMessage("username or password is wrong...")
       }
@@ -65,6 +67,8 @@ export const AuthProvider = ({ children }) => {
         setAdmin(exist);
         localStorage.setItem("user",JSON.stringify(exist))
         Router.push(`/${exist.year}`)
+        setUsername("")
+        setPassword("")
       } else {
         setErrorMessage("username or password is wrong...")
       }

@@ -43,7 +43,6 @@ export const DataProvider = ({ children }) => {
     try {
       data.date.push({ date: date, event: message, year: year });
       setDates([...dates, { date: date, event: message, year: year }]);
-      alert("ok");
       Router.push(`/${year}`);
     } catch (error) {
       alert("error");
@@ -58,7 +57,6 @@ export const DataProvider = ({ children }) => {
         ...messages,
         { time: `${now.getDate()} /${now.getMonth()} / ${now.getYear()} ${now.getHours()}:${now.getMinutes()} `, text: message, year: year, author: author },
       ]);
-      alert("ok");
       Router.push(`/${year}`);
     } catch (error) {
       alert("error");

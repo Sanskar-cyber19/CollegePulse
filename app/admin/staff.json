@@ -6,6 +6,20 @@
             "username":"sanskar",
             "password":"sanskar19@",
             "role":"teacher"
+        },
+        {
+            "id":2,
+            "name":"Prof. Suraj Khatake",
+            "username":"suraj",
+            "password":"suraj23@",
+            "role":"teacher"
+        },
+        {
+            "id":3,
+            "name":"Prof. Yogeshwari Pati",
+            "username":"yogeshwari",
+            "password":"yougeshwari16@",
+            "role":"teacher"
         }
     ],
     "students":[
@@ -14,6 +28,22 @@
             "name":"Sanskar Bandgar",
             "username":"sanskar",
             "password":"sanskar19@",
+            "role":"student",
+            "year":"FE"
+        },
+        {
+            "id":2,
+            "name":"Suraj Khatake",
+            "username":"suraj",
+            "password":"suraj23@",
+            "role":"student",
+            "year":"FE"
+        },
+        {
+            "id":3,
+            "name":"Yogeshwari Pati",
+            "username":"yogeshwari",
+            "password":"yougeshwari16@",
             "role":"student",
             "year":"FE"
         }
