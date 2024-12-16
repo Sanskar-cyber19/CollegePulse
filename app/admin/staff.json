@@ -20,6 +20,13 @@
             "username":"yogeshwari",
             "password":"yougeshwari16@",
             "role":"teacher"
+        },
+        {
+            "id":4,
+            "name":"Cark Staff",
+            "username":"admin",
+            "password":"admin",
+            "role":"cark-staff"
         }
     ],
     "students":[
