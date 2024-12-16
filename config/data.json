@@ -1,0 +1,33 @@
+{
+  "date": [
+    {
+      "date": "22 Sep 2024",
+      "event": "Exam Starting",
+      "year": "se"
+    },
+    {
+      "date": "23 Sep 2024",
+      "event": "Important Meeting",
+      "year": "se"
+    },
+    {
+      "date": "25 Sep 2024",
+      "event": "Project Submission",
+      "year": "fe"
+    }
+  ],
+  "message": [
+    {
+      "text": "Message is herehjjvb hg jhygjb yj juyub yu jybbuhb...",
+      "author": "Prof. Sanskar",
+      "time": "8:43PM",
+      "year": "fe"
+    },
+    {
+      "text": "Another message is herehjjvb hg jhygjb yj juyub...",
+      "author": "Dr. Gupta",
+      "time": "9:30AM",
+      "year": "se"
+    }
+  ]
+}

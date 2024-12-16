@@ -1,0 +1,21 @@
+{
+    "teachers":[
+        {
+            "id":1,
+            "name":"Prof. Sanskar Bandgar",
+            "username":"sanskar",
+            "password":"sanskar19@",
+            "role":"teacher"
+        }
+    ],
+    "students":[
+        {
+            "id":1,
+            "name":"Sanskar Bandgar",
+            "username":"sanskar",
+            "password":"sanskar19@",
+            "role":"student",
+            "year":"FE"
+        }
+    ]
+}
